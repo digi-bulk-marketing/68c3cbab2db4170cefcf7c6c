@@ -1,9 +1,14 @@
 # DIGITEK
 
-- Rebranding ID: 68c3cbab2db4170cefcf7c6c
-- User ID: 6455e0ab94f3407430c47466
-- App name: DIGITEK
-- Product name: Button Sender
+DIGITEK by SOLUTION.
 
-App logo: https://api.digibulkmarketing.com/media/uploads/image/57cb42a5-8558-4b80-8a24-fc32c449a11b.png
-![App Logo](https://api.digibulkmarketing.com/media/uploads/image/57cb42a5-8558-4b80-8a24-fc32c449a11b.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/68c3cbab2db4170cefcf7c6c/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **DIGITEK** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/68c3cbab2db4170cefcf7c6c/releases/latest) and reinstall.
